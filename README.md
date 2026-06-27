@@ -1,6 +1,6 @@
 # Hi, I'm Januar Samjid 👋
 
-## Full Stack Developer | Software Engineer
+## Full Stack Software Engineer
 
 I'm a passionate Full Stack Developer specializing in building scalable, efficient, and modern web applications. With expertise across both frontend and backend technologies, I focus on creating robust solutions that solve real-world problems.
 
